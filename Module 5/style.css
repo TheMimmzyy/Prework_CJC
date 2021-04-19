@@ -1,0 +1,58 @@
+h1 {
+    text-align: center;
+    text-decoration: underline
+}
+
+p {}
+
+#first {
+    color: red
+}
+#second {
+    color: blue
+}
+#third {
+    color: green
+}
+
+#BIG {
+    font-size: 30px
+}
+#small {
+    font-size: 5px
+}
+
+#middle {
+    text-align: center
+}
+
+#bold {
+    font-weight: bold
+}
+#dif {
+    font-family: Haettenschweiler
+}
+
+#multi {
+    font-size: 34px;
+    color: orange;
+    font-weight: bolder
+}
+
+.styledFont {
+    font-size: 28px;
+    color: greenyellow;
+    font-family: 'Franklin Gothic Medium'
+}
+
+#iknow {
+    font-size: 24px;
+    color: red;
+    font-family: Cochin
+}
+
+#styledImage {
+    border-width: 3cm;
+    border-color: orange;
+    border-style: groove
+}
